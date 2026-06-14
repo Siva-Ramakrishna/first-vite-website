@@ -50,7 +50,8 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Pokemon Explorer</h1>
+      <h1> Pokemon </h1>
+      <h3>Find Them All !!!</h3>
 
       <SearchBar
         search={search}
